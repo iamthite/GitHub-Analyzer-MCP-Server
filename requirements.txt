@@ -1,0 +1,12 @@
+# GitHub MCP Pro Server Requirements
+# Python 3.10+
+
+# Core dependencies
+fastmcp>=2.14.0
+httpx>=0.24.0
+python-dotenv>=1.0.0
+
+# Optional for enhanced features
+# redis>=4.5.0  # For distributed caching
+# prometheus-client>=0.16.0  # For metrics
+# sentry-sdk>=1.40.0  # For error tracking
