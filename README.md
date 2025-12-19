@@ -9,25 +9,6 @@ A **production-ready** Model Context Protocol (MCP) server with **28+ powerful t
 
 ---
 
-## 🎯 What's New in v2.0
-
-### 🚀 **3X More Tools** - From 9 to 28 Tools!
-
-| Feature | v1.0 | v2.0 |
-|---------|------|------|
-| Total Tools | 9 | **28** |
-| Repository Analysis | Basic | **Advanced with stats & health** |
-| Commit Analysis | Simple list | **Detailed + Comparison** |
-| Search Capabilities | Basic | **Multi-type (repos/users/topics)** |
-| User Features | Profile only | **Profile + Activity + Repos** |
-| GitHub Actions | ❌ | **✅ Workflows + Runs** |
-| Release Management | ❌ | **✅ Full release tracking** |
-| Traffic Analytics | ❌ | **✅ Views + Clones** |
-| Community Health | ❌ | **✅ Health metrics** |
-| Organization Support | ❌ | **✅ Org profiles** |
-| Error Handling | Basic | **Production-grade** |
-
----
 
 ## ✨ Complete Feature Set
 
